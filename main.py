@@ -2,11 +2,9 @@
 """
 -- coding: utf-8 --
 @Time : 2021/9/27 19:38
-@Author : Feng Yi
 @File : main.py
 @Software : PyCharm
 @D6esc :用于Scrapy调试
-@Contact :1303622496@qq.com
 """
 
 from scrapy.cmdline import execute
