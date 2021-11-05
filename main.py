@@ -2,7 +2,7 @@
 """
 -- coding: utf-8 --
 @Time : 2021/9/27 19:38
-@Author : ZhaoJie
+@Author : Feng Yi
 @File : main.py
 @Software : PyCharm
 @D6esc :用于Scrapy调试
